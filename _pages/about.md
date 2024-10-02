@@ -8,15 +8,14 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>E2-480 EITC</p>
-    <p>75 Chancellors Cir</p>
-    <p>Winnipeg, MB, R3T 5V6</p>
+  more_info: <p>E2-480, 75 Chancellors Cir, Winnipeg, MB, R3T 5V6</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+I lead the <b>Sp</b>atial <b>In</b>telligent <b>S</b>ystem (SPINS) Lab at University of Manitoba (UM). Before joining UM, I was a Machine Learning Engineer at Apple and then Research Scientist at Meta Reality Labs. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
