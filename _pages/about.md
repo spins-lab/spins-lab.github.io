@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I lead the <strong style="font-weight: 900;">Sp</strong>atial <strong style="font-weight: 900;">In</strong>telligent <strong style="font-weight: 900;">S</strong>ystem (<strong style="font-weight: 900;">SPINS</strong>) Lab at [University of Manitoba (UM)](https://umanitoba.ca/). Before joining UM, I was a Machine Learning Engineer at Apple and then a Research Scientist at Meta Reality Labs. I got my doctoral degree from Simon Fraser University in 2020, supervised by Prof. Ping Tan. During my Ph.D, I had spent wonderful times as a research intern at Adobe Research with Dr. Oliver Wang and Microsoft Research with Dr. Lu Yuan.
+I lead the <strong style="font-weight: 900;">Sp</strong>atial <strong style="font-weight: 900;">In</strong>telligent <strong style="font-weight: 900;">S</strong>ystem (<strong style="font-weight: 900;">SPINS</strong>) Lab at [University of Manitoba (UM)](https://umanitoba.ca/). Before joining UM, I was a Machine Learning Engineer at Apple and then a Research Scientist at Meta Reality Labs. I got my doctoral degree from Simon Fraser University in 2020, supervised by Dr. Ping Tan. During my Ph.D, I had spent wonderful times as a research intern at Adobe Research with Dr. Oliver Wang and Microsoft Research with Dr. Lu Yuan.
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
