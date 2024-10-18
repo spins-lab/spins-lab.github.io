@@ -17,12 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 I lead the <strong style="font-weight: 900;">Sp</strong>atial <strong style="font-weight: 900;">In</strong>telligent <strong style="font-weight: 900;">S</strong>ystem (<strong style="font-weight: 900;">SPINS</strong>) Lab at University of Manitoba (UM). Prior to UM, I was a Machine Learning Engineer at Apple and then a Research Scientist at Meta Reality Labs. I got my Ph.D. degree from Simon Fraser University in 2020, supervised by [Dr. Ping Tan](https://ece.hkust.edu.hk/pingtan). During my Ph.D., I had spent wonderful times as a research intern at Adobe Research with [Dr. Oliver Wang](https://oliverwang.nfshost.com/) and Microsoft Research with [Dr. Lu Yuan](https://scholar.google.ca/citations?user=k9TsUVsAAAAJ&hl=en).
 
-My research interests cover 3D computer vision and Robotics. 
-
-My research goal is to integrate the pereception and control utilize artificial intelligence techniques to make machines perceive, understand, imagine, and interact with the surrounding environment, and ultimately make high positive impacts on various fields. 
-
-Our current research directions include: 1. visual scene understanding, perception, reconstruction, representation learning, multimodal learning; 2. generative modeling, visual content creation, generation, and manipulation (image/video/3d); 3. autonomous driving, embodied ai, robot learning, LLM applications etc.
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
