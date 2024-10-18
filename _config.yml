@@ -233,7 +233,8 @@ include:
   - _pages/profiles.md
   - _pages/cv.md
 exclude:
-  - bin/
+  - _includes
+  - bin/latest_posts.liquid
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
