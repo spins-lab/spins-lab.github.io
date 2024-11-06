@@ -1,1 +1,1 @@
-You
+I have two fully funded positions for self-motivated PhD (preferred) and master students. If you are interested in working with me, please fill out [this application form](https://docs.google.com/forms/d/e/1FAIpQLSdaWiIy3ukuPdtrmkGm5Th9jo082tSA3MfOlKx0q-CuHu4g4w/viewform). Students from majors other than computer science are also encouraged to apply as long as you have a solid math <strong style="font-weight: 900;">or</strong> programming skill. Depending on the condition of each candidate, I am also open to other research topics relevant to my focuses.
