@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <p>E2-480, 75 Chancellors Cir, Winnipeg, MB, R3T5V6, Canada.</p> <p>Email:firstname.lastname@umanitoba.ca</p>
+  more_info: <p>E2-480, 75 Chancellors Cir, Winnipeg, MB, R3T5V6, Canada</p> <p>Email:firstname.lastname@umanitoba.ca</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
