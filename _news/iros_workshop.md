@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our workshop "Robotic Data Generation and Evaluation: Bridging Simulation and Real-World Deployment
-" has been accepted by International Conference on Intelligent Robots and Systems (IROS) 2025, stay tuned for more details.
+Our workshop [Robotic Data Generation and Evaluation: Bridging Simulation and Real-World Deployment](https://rodge-iros25.github.io/) has been accepted by [International Conference on Intelligent Robots and Systems (IROS) 2025](https://www.iros25.org/).
